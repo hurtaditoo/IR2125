@@ -1,4 +1,4 @@
-# 🧿 IR2126 - Computer Vision
+# IR2126 - Computer Vision
 
 This repository contains all practical assignments developed for **IR2126 - Computer Vision**, a 3rd year core subject in the **Bachelor’s Degree in Robotic Intelligence** at **Universitat Jaume I**.
 
